@@ -1,7 +1,7 @@
 #!/bin/bash
 # sudo apt update -y
 
-# cd /home/ubuntu/FirstNodeApp
+cd /home/ubuntu/FirstNodeApp
 sudo rm -rf node_modules
 
 # get node into yum
